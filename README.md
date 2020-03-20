@@ -75,17 +75,15 @@ https://jitsi.org/news/tutorial-video-how-to-load-balance-jitsi-meet/ (Anmerkung
 
 # developer infos
 
-github project: https://github.com/covid-videoplattform
-github main repo: https://github.com/covid-videoplattform/covid-videoplattform
-wucke13 @github
-chaotika @github
-TheReal1604 @github
++ github project: https://github.com/covid-videoplattform
++ github main repo: https://github.com/covid-videoplattform/covid-videoplattform
++ wucke13 @github
++ chaotika @github
++ TheReal1604 @github
 
 ## devpost
-https://devpost.com/software/031_digitale_krankheitsanamnese_covid-videoplattform/joins/8B123aMb5-XuhQal023uZw
 
-https://devpost.com/software/031_digitale_krankheitsanamnese_covid-videoplattform
-
-https://docs.google.com/document/d/1e4VEAU5alIQwYlcRcXoodv66EnWvRbUSOxk6LxM8358/preview
-https://docs.google.com/document/d/1O1ewO6vhR-CDLPSm7kScPt8-xjsb-hKI2rXISRN8LI4/preview
-
++ https://devpost.com/software/031_digitale_krankheitsanamnese_covid-videoplattform/joins/8B123aMb5-XuhQal023uZw
++ https://devpost.com/software/031_digitale_krankheitsanamnese_covid-videoplattform
++ https://docs.google.com/document/d/1e4VEAU5alIQwYlcRcXoodv66EnWvRbUSOxk6LxM8358/preview
++ https://docs.google.com/document/d/1O1ewO6vhR-CDLPSm7kScPt8-xjsb-hKI2rXISRN8LI4/preview
