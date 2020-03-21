@@ -42,7 +42,7 @@ Skalierbaren, leicht repdroduzierbaren Videochat
 ## andere relevante Projekte
 
 + Nils Tißen https://de.slideshare.net/MeandCompany/me-company-covcheck-konzeptprsentation
-
++ https://devpost.com/software/videobesuch
 
 
 ## jitsi api dinge
